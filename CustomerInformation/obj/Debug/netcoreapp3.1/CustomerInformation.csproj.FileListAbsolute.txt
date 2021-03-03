@@ -35,3 +35,5 @@ C:\Users\philip\Desktop\Silverware POS\CustomerInformation\CustomerInformation\o
 C:\Users\philip\Desktop\Silverware POS\CustomerInformation\CustomerInformation\obj\Debug\netcoreapp3.1\CustomerInformation.pdb
 C:\Users\philip\Desktop\Silverware POS\CustomerInformation\CustomerInformation\obj\Debug\netcoreapp3.1\CustomerInformation.genruntimeconfig.cache
 C:\Users\philip\Desktop\Silverware POS\CustomerInformation\CustomerInformation\obj\Debug\netcoreapp3.1\CustomerInformation.csproj.CopyComplete
+C:\Users\philip\Desktop\Silverware POS\CustomerInformation\CustomerInformation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\philip\Desktop\Silverware POS\CustomerInformation\CustomerInformation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
